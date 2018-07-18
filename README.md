@@ -1,1 +1,2 @@
-# spring_chat
+# SpringChat...
+...is a simple WebSockets app to chat between users
